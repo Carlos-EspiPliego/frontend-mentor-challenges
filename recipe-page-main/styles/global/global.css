@@ -1,0 +1,81 @@
+@import url('./variables.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Young+Serif&display=swap');
+
+html {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+}
+
+body {
+    font-family: var(--body-font);
+    color: var(--wenge-brown);
+    background-color: var(--eggshell);
+}
+
+h1, h2, h3 {
+    font-family: var(--title-font);
+    font-weight: 600;
+    color: var(--nutmeg);
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: var(--h2-font-size);
+    line-height: var(--line-height-h2);
+}
+
+p {
+    line-height: 1.25rem;
+    font-size: var(--normal-font-size);
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+li::marker {
+    color: var(--nutmeg);
+    font-weight: bold;
+}
+
+
+ul, ol {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    list-style-position: outside;
+    padding-left: 1rem;
+}
+
+ul li {
+    padding-left: 1rem;
+}
+
+ol li {
+    padding-left: 1rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid var(--eggshell);
+
+}
+
+th {
+    font-weight: 400;
+    padding-left: 2rem;
+}
+
+td {
+    color: var(--nutmeg);
+    font-weight: 600;
+    padding: 1rem 0;
+    text-align: left;
+}
