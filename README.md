@@ -26,11 +26,11 @@ Los desafíos están ordenados de menor a mayor dificultad, y filtrados por los 
 ### Enlaces
 
 - URL del Demo: [01-recipe-page-main](https://galaxypliego.github.io/frontend-mentor-challenges/01-recipe-page-main/)
-... y otros enlaces que se irán añadiendo a medida que se vayan completando los desafíos.
+- ... y otros enlaces que se irán añadiendo a medida que se vayan completando los desafíos.
 
 ## Mi proceso
 
-### Construido con
+### Challenges construidos con
 
 - HTML5 semántico
 - Propiedades personalizadas de CSS
@@ -41,7 +41,7 @@ Los desafíos están ordenados de menor a mayor dificultad, y filtrados por los 
 ### Recursos útiles
 
 - [Normalize.css](https://necolas.github.io/normalize.css/)
-... y otros recursos que se irán añadiendo a medida que se vayan utilizando.
+- ... y otros recursos que se irán añadiendo a medida que se vayan utilizando.
 
 ## Autor
 
