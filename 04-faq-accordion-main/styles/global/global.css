@@ -1,0 +1,68 @@
+@import url('./variables.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+}
+
+body {
+    height: calc(100vh - 3rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: var(--font-family);
+    color: var(--grayish-purple);
+    background-color: var(--light-pink);
+    background-image: url('../../assets/images/background-pattern-mobile.svg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 1.5rem;
+}
+
+h1, h2, h3 {
+    color: var(--dark-purple);
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    line-height: 1.25rem;
+    font-size: var(--normal-font-size);
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: var(--purple);
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+button:hover h2{
+    transition: 0.3s ease-in-out;
+    color: var(--purple);
+    
+}
+
+figure {
+    margin: 0;
+}
+
+/* Query para cuando la pantalla es desktop */
+@media screen and (min-width: 768px) {
+    body {
+        background-image: url('../../assets/images/background-pattern-desktop.svg');
+    }
+}
