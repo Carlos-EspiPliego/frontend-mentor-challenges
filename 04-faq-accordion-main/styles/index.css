@@ -3,7 +3,7 @@
 .main__card {
     display: flex;
     flex-direction: column;
-    padding: 1.5rem;
+    padding: 1.5rem 1.5rem .5rem 1.5rem;
     background-color: var(--white);
     border-radius: 0.5rem;
     box-shadow: 4px 4px 0 0 var(--light-pink);
@@ -69,6 +69,8 @@
 
 .footer__section {
     display: flex;
+    position: absolute;
+    bottom: 0;
     flex-direction: column;
     justify-content: center;
     align-items: center;

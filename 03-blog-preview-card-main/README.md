@@ -1,4 +1,4 @@
-# Frontend Mentor - Solución "02 - Blog Preview Card"
+# Frontend Mentor - Solución "03 - Blog Preview Card"
 
 Esta es una solución al desafío "03 - Blog Preview Card" en Frontend Mentor.
 

@@ -8,11 +8,12 @@ html {
 }
 
 body {
-    height: calc(100vh - 3rem);
+    /* height: calc(100vh - 3rem); */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    min-height: 100svh;
     font-family: var(--font-family);
     color: var(--grayish-purple);
     background-color: var(--light-pink);
@@ -20,6 +21,7 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 1.5rem;
+    box-sizing: border-box;
 }
 
 h1, h2, h3 {

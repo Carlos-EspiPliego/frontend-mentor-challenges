@@ -27,6 +27,8 @@ Los desafíos están ordenados de menor a mayor dificultad, y filtrados por los 
 
 - Demo: [01-recipe-page-main](https://galaxypliego.github.io/frontend-mentor-challenges/01-recipe-page-main/)
 - Demo: [02-social-links-profile-main](https://galaxypliego.github.io/frontend-mentor-challenges/02-social-links-profile-main/)
+- URL del sitio en vivo: [03 - Blog Preview Card](https://galaxypliego.github.io/frontend-mentor-challenges/03-blog-preview-card-main/)
+- URL del sitio en vivo: [04 - Faq Accordion Demo](https://galaxypliego.github.io/frontend-mentor-challenges/04-faq-accordion-main/)
 - ... y otros enlaces que se irán añadiendo a medida que se vayan completando los desafíos.
 
 ## Mi proceso
