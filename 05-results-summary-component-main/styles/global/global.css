@@ -1,0 +1,78 @@
+@import url('./variables.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    font-size: 18px;
+}
+
+body {
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    min-height: 100svh;
+    font-family: var(--font-family);
+    box-sizing: border-box;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    line-height: 1rem;
+    font-size: var(--normal-font-size);
+    letter-spacing: 0.5px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: var(--light-royal-blue);
+}
+
+button {
+    background-color: var(--dark-grey-blue);
+    border-radius: 10rem;
+    color: var(--white);
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 1rem;
+    margin: 0;
+}
+
+button:hover {
+    /* fondo gradiente */
+    background: linear-gradient(
+        to bottom, 
+        var(--light-slate-blue) 0%,
+        var(--light-royal-blue) 100%);
+}
+
+figure {
+    margin: 0;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+footer p {
+    font-size: var(--smaller-font-size);
+}
+
+/* Query para cuando la pantalla es desktop */
+@media screen and (min-width: 768px) {
+    body {
+        background-image: url('../../assets/images/background-pattern-desktop.svg');
+    }
+}

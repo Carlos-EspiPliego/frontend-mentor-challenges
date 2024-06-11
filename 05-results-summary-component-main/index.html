@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <link rel="stylesheet" href="styles/index.css" />
+    <link rel="stylesheet" href="./styles/global/normalize.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+
+    <title>Frontend Mentor | Results summary component</title>
+  </head>
+  <body>
+    <main class="main__card">
+      <!-- SCORE SECTION -->
+      <section class="score__section">
+        <h1 class="score__title">Your Result</h1>
+        <div class="score__total-container">
+          <p class="score__total-result">76</p>
+          <p class="score__total-result_text">of 100</p>
+        </div>
+        <div class="score__description-container">
+          <p class="score__description-title">Great</p>
+          <p class="score__description-text">You scored higher than 65% of the people who
+            have taken these tests.</p>
+        </div>
+      </section>
+
+      <!-- SUMMARY SECTION -->
+      <section class="summary__section">
+        <h2 class="summary__title">Summary</h2>
+
+        <!-- REACTION -->
+        <div class="summary__items container_reaction">
+          <div class="summary__item-title">
+            <figure>
+              <img
+                src="./assets/images/icon-reaction.svg"
+                alt="reaction icon"
+                class="summary__icon"
+              />
+              <figcaption class="summary__icon-title data-reaction">Reaction</figcaption>
+            </figure>
+          </div>
+
+          <div class="summary__item-score">
+            <p class="summary__item-score-result">80</p>
+            <span class="divider">/</span>
+            <p class="summary__item-score-text">100</p>
+          </div>
+        </div>
+
+        <!-- MEMORY -->
+        <div class="summary__items container_memory">
+          <div class="summary__item-title">
+            <figure>
+              <img
+                src="./assets/images/icon-memory.svg"
+                alt="reaction icon"
+                class="summary__icon"
+              />
+              <figcaption class="summary__icon-title data-memory">Memory</figcaption>
+            </figure>
+          </div>
+
+          <div class="summary__item-score">
+            <p class="summary__item-score-result">92</p>
+            <span class="divider">/</span>
+            <p class="summary__item-score-text">100</p>
+          </div>
+        </div>
+
+        <!-- VERBAL -->
+        <div class="summary__items container_verbal">
+          <div class="summary__item-title">
+            <figure>
+              <img
+                src="./assets/images/icon-verbal.svg"
+                alt="reaction icon"
+                class="summary__icon"
+              />
+              <figcaption class="summary__icon-title data-verbal">Verbal</figcaption>
+            </figure>
+          </div>
+
+          <div class="summary__item-score">
+            <p class="summary__item-score-result">61</p>
+            <span class="divider">/</span>
+            <p class="summary__item-score-text">100</p>
+          </div>
+        </div>
+
+        <!-- VISUAL -->
+        <div class="summary__items container_visual">
+          <div class="summary__item-title">
+            <figure>
+              <img
+                src="./assets/images/icon-visual.svg"
+                alt="reaction icon"
+                class="summary__icon"
+              />
+              <figcaption class="summary__icon-title data-visual">Visual</figcaption>
+            </figure>
+          </div>
+
+          <div class="summary__item-score">
+            <p class="summary__item-score-result">72</p>
+            <span class="divider">/</span>
+            <p class="summary__item-score-text">100</p>
+          </div>
+        </div>
+
+        <button>Continue</button>
+
+      </section>
+
+    </main>
+
+    <footer class="footer__section">
+      <p>
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
+          Frontend Mentor.
+        </a>
+      </p>
+      <p>
+        Coded by
+        <a
+          href="https://galaxypliego.github.io/portfolio-web-one/"
+          target="_blank"
+        >
+          Carlos Espinoza </a
+        >.
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('../../assets/fonts/static/HankenGrotesk-Medium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('../../assets/fonts/static/HankenGrotesk-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hanken Grotesk';
+    src: url('../../assets/fonts/static/HankenGrotesk-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+:root {
+    /* Primary */
+    --light-red: hsl(0, 100%, 67%);
+    --bg-light-red: hsla(0, 100%, 67%, .1);
+    --orangey-yellow: hsl(39, 100%, 56%);
+    --bg-orangey-yellow: hsla(39, 100%, 56%, .1);
+    --green-teal: hsl(166, 100%, 37%);
+    --bg-green-teal: hsla(166, 100%, 37%, .1);
+    --cobalt-blue: hsl(234, 85%, 45%);
+    --bg-cobalt-blue: hsla(234, 85%, 45%, .1);
+
+    /* Gradients */
+    --light-slate-blue: hsl(252, 100%, 67%);
+    --light-royal-blue: hsl(241, 81%, 54%);
+    --violet-blue: hsla(256, 72%, 46%, 1);
+    --persian-blue: hsla(241, 72%, 46%, 0);
+
+    /* Neutral */
+    --white: hsl(0, 0%, 100%);
+    --pale-blue: hsl(221, 100%, 96%);
+    --light-lavender: hsl(241, 100%, 89%);
+    --dark-grey-blue: hsl(224, 30%, 27%);
+
+    /*========== Font and typography ==========*/
+    /* 1 rem = 18 px */
+    --font-family: "Hanken Grotesk", sans-serif;
+    --font-title-shadow: 4rem;
+    --biggest-font-size: 2.5rem; /* 45px */
+    --h1-font-size: 2.25rem; /* 40px */
+    --h2-font-size: 2rem; /* 36px */
+    --h3-font-size: 1.25rem; /* 22px */
+    --normal-font-size: 1rem; /* 18px */
+    --small-font-size: .875rem; /* 16px */
+    --smaller-font-size: .75rem; /* 14px */
+    --tiny-font-size: .625rem;
+}
