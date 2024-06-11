@@ -37,16 +37,16 @@ El desafío consiste en desarrollar una acordeón de preguntas frecuentes utiliz
 - HTML5
 - CSS personalizado
 - Flexbox
-- Javascript
 - [Normalize.css](https://necolas.github.io/normalize.css/) - Para una mejor consistencia entre navegadores
 
 ### Lo que aprendí
 
-Al trabajar en este proyecto, aprendí cómo darle funcionalidad a un accordion de preguntas utilizando Javascript. Esto me permitió experimentar con el uso de eventos de click para mostrar y ocultar las respuestas a las preguntas.
+Al trabajar en este proyecto, aprendí a mejorar mis habilidades en la creación de componentes interactivos utilizando HTML y CSS
 
 ### Recursos útiles
 
 - [Normalize.css](https://necolas.github.io/normalize.css/) - Una hoja de estilo para normalizar el estilo predeterminado de los navegadores.
+- [BEM](http://getbem.com/) - Una metodología de nomenclatura de clases CSS que ayuda a mantener el código más organizado y escalable.
 
 ## Autor
 
