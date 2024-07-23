@@ -28,7 +28,7 @@ El desafío consiste en desarrollar una acordeón de preguntas frecuentes utiliz
 
 ### Enlaces
 
-- URL del sitio en vivo: [04 - Faq Accordion Demo](https://galaxypliego.github.io/frontend-mentor-challenges/04-faq-accordion-main/)
+- URL del sitio en vivo: [04 - Faq Accordion Demo](https://carlos-espipliego.github.io/frontend-mentor-challenges/04-faq-accordion-main/)
 
 ## Mi proceso
 
@@ -50,7 +50,7 @@ Al trabajar en este proyecto, aprendí cómo darle funcionalidad a un accordion 
 
 ## Autor
 
-- Frontend Mentor - [@galaxypliego](https://www.frontendmentor.io/profile/galaxypliego)
+- Frontend Mentor - [@carlos-espipliego](https://www.frontendmentor.io/profile/carlos-espipliego)
 
 ## Agradecimientos
 

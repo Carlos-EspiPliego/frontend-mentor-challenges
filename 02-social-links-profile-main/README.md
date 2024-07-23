@@ -27,7 +27,7 @@ El desafío consiste en desarrollar un perfil para compartir enlaces sociales ut
 
 ### Enlaces
 
-- URL del sitio en vivo: [02-Social Links Profile](https://galaxypliego.github.io/frontend-mentor-challenges/02-social-links-profile-main/)
+- URL del sitio en vivo: [02-Social Links Profile](https://carlos-espipliego.github.io/frontend-mentor-challenges/02-social-links-profile-main/)
 
 ## Mi proceso
 
@@ -48,7 +48,7 @@ Al trabajar en este proyecto, aprendí cómo organizar un diseño de perfil con 
 
 ## Autor
 
-- Frontend Mentor - [@galaxypliego](https://www.frontendmentor.io/profile/galaxypliego)
+- Frontend Mentor - [@carlos-espipliego](https://www.frontendmentor.io/profile/carlos-espipliego)
 
 ## Agradecimientos
 

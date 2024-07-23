@@ -25,11 +25,11 @@ Los desafíos están ordenados de menor a mayor dificultad, y filtrados por los 
 
 ### Enlaces
 
-- Demo: [01-recipe-page-main](https://galaxypliego.github.io/frontend-mentor-challenges/01-recipe-page-main/)
-- Demo: [02-social-links-profile-main](https://galaxypliego.github.io/frontend-mentor-challenges/02-social-links-profile-main/)
-- URL del sitio en vivo: [03 - Blog Preview Card](https://galaxypliego.github.io/frontend-mentor-challenges/03-blog-preview-card-main/)
-- URL del sitio en vivo: [04 - Faq Accordion](https://galaxypliego.github.io/frontend-mentor-challenges/04-faq-accordion-main/)
-- URL del sitio en vivo: [05 - Results Summary Component](https://galaxypliego.github.io/frontend-mentor-challenges/05-results-summary-component-main/)
+- Demo: [01-recipe-page-main](https://carlos-espipliego.github.io/frontend-mentor-challenges/01-recipe-page-main/)
+- Demo: [02-social-links-profile-main](https://carlos-espipliego.github.io/frontend-mentor-challenges/02-social-links-profile-main/)
+- URL del sitio en vivo: [03 - Blog Preview Card](https://carlos-espipliego.github.io/frontend-mentor-challenges/03-blog-preview-card-main/)
+- URL del sitio en vivo: [04 - Faq Accordion](https://carlos-espipliego.github.io/frontend-mentor-challenges/04-faq-accordion-main/)
+- URL del sitio en vivo: [05 - Results Summary Component](https://carlos-espipliego.github.io/frontend-mentor-challenges/05-results-summary-component-main/)
 - ... y otros enlaces que se irán añadiendo a medida que se vayan completando los desafíos.
 
 ## Mi proceso
@@ -49,6 +49,6 @@ Los desafíos están ordenados de menor a mayor dificultad, y filtrados por los 
 
 ## Autor
 
-- GitHub - [@GalaxyPliego](https://github.com/GalaxyPliego)
-- Frontend Mentor - [@GalaxyPliego](https://www.frontendmentor.io/profile/GalaxyPliego)
+- GitHub - [@carlos-espipliego](https://github.com/carlos-espipliego)
+- Frontend Mentor - [@carlos-espipliego](https://www.frontendmentor.io/profile/carlos-espipliego)
 

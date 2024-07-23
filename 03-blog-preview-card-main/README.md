@@ -27,7 +27,7 @@ El desafío consiste en desarrollar una tarjeta de vista previa a un blog utiliz
 
 ### Enlaces
 
-- URL del sitio en vivo: [03 - Blog Preview Card](https://galaxypliego.github.io/frontend-mentor-challenges/03-blog-preview-card-main/)
+- URL del sitio en vivo: [03 - Blog Preview Card](https://carlos-espipliego.github.io/frontend-mentor-challenges/03-blog-preview-card-main/)
 
 ## Mi proceso
 
@@ -48,7 +48,7 @@ Al trabajar en este proyecto, aprendí cómo organizar un diseño de perfil con 
 
 ## Autor
 
-- Frontend Mentor - [@galaxypliego](https://www.frontendmentor.io/profile/galaxypliego)
+- Frontend Mentor - [@carlos-espipliego](https://www.frontendmentor.io/profile/carlos-espipliego)
 
 ## Agradecimientos
 
